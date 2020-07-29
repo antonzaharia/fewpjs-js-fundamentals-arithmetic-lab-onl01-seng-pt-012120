@@ -3,3 +3,4 @@ const num2 = 2;
 const multiply = num1*num2;
 const random = Math.floor(Math.random() * 100) + 1;
 const mod = 28%8;
+const max = Math.max(12,13,14,20)
